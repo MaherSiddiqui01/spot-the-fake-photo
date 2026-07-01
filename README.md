@@ -1,7 +1,7 @@
-# Spot the Fake Photo — Submission Note
+# Spot the Fake Photo -> Submission Note
 
 ## What I built
-Classifies an image as a real photo (0) or photo of a screen (1) using 14 hand-crafted image features — FFT moire energy, Laplacian sharpness, color cast, overexposed pixel ratio, edge density, and LBP texture — fed into a Random Forest classifier. No deep learning, no GPU.
+Classifies an image as a real photo (0) or photo of a screen (1) using 14 hand-crafted image features — FFT moire energy, Laplacian sharpness, color cast, overexposed pixel ratio, edge density, and LBP texture fed into a Random Forest classifier. No deep learning, no GPU.
 
 - **Accuracy:** 98.0% (5-fold CV, 646 photos: 414 real / 232 screen)
 - **Latency:** ~150ms/image, laptop CPU
