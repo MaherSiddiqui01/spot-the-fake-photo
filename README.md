@@ -25,3 +25,5 @@ python predict.py some_image.jpg
 ```
 
 Returns a score 0–1 (0 = real, 1 = screen).
+
+Submission Doc: https://docs.google.com/document/d/1LhEfy5PG0AvtBb0MuLVcQWY5OTyRMD9bzM9KTNQZZmA/edit?usp=sharing
